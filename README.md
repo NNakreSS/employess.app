@@ -5,6 +5,8 @@
 ```
 pnpm install / npm install
 
+pnpm i json-server / npm i -g json-server
+
 json-server -w fake-api/employee.json
 
 npm run build
